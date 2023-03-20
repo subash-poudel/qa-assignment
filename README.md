@@ -10,15 +10,15 @@ All the features in the website are testable. For this assignment, we only need 
 
 ## Test the default state of the website when metamask is not connected.
 
-[Not Connected](./not%20connected.png)
+![Not Connected](./not%20connected.png)
 
 ## Test the state of the website when metamask is connected
 
-[Connected](./connected.png)
+![Connected](./connected.png)
 
 ## Test encryption and decryption of sample text
 
-[Encryption and Decryption](./encryption-decreption.png)
+![Encryption and Decryption](./encryption-decreption.png)
 
 There are library available to test metamask with cypress. You can use any of them including:
 
